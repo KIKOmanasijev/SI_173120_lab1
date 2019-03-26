@@ -13,3 +13,17 @@
 9. git checkout bugFix1
 10. git add program.cpp
 11. git commit -m "printMyName implemented"
+12. git remote add origin https://github.com/KIKOmanasijev/SI_173120_lab1.git
+13. git checkout master
+14. git push -u origin master
+15. git checkout bugFix1
+16. git push -u origin bugFix1
+17. git checkout bugFix2
+18. git add program.cpp
+19. git commit -m "“printMyIndex implemented"
+20. git push -u origin bugFix2
+21. git checkout master
+22. git merge bugFix1
+23. git merge bugFix2
+24. git push -u origin master
+25. git branch mainImplementation
