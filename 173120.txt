@@ -27,3 +27,7 @@
 23. git merge bugFix2
 24. git push -u origin master
 25. git branch mainImplementation
+26. git checkout mainImplementation
+27. git add .
+28. git commit -m "main part implemented"
+29. git push origin mainImplementation
