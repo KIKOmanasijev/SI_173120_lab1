@@ -1,0 +1,15 @@
+
+1. mkdir SI_173120_lab1
+2. cd SI_173120_lab1
+
+3. git init
+//ja prefrlame programata vo folderot
+
+4. git status
+5. git add program.cpp
+6. git commit -m "Initial commit"
+7. git branch bugFix1
+8. git branch bugFix2
+9. git checkout bugFix1
+10. git add program.cpp
+11. git commit -m "printMyName implemented"
